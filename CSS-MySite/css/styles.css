@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top_container {
+    background-color: #fff5ea;
+    border: solid 10px;
+    padding: 20px;
+}
+
+.middle_container {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+}
+
+.bottom_container {
+    background-color: cadetblue;
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    margin-left: 500px;
+}
+
+.prog {
+    text-decoration: underline;
+}
